@@ -114,6 +114,4 @@ const nextISSTimesForMyLocation = function(callback) {
 };
 
 
-
-
 module.exports = { nextISSTimesForMyLocation };
